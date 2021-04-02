@@ -5,7 +5,7 @@
 
 - :hammer: &nbsp; Hacking things together is my thing
 - :camera: &nbsp; Photography is more than a hobby (check out my website)
-- :musical_keyboard: &nbsp; [Shattering Light](sptfy.com/shatteringlight) is my music project (Industrial)
+- :musical_keyboard: &nbsp; [Shattering Light](https://sptfy.com/shatteringlight) is my music project (Industrial)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
