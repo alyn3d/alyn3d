@@ -1,6 +1,12 @@
 <h2> Hey there! I'm @alyn3d</h2>
 <sup>I debug, therefore I hate</sup>
 
+```ruby
+ /\_/\
+( o.o )
+ > ^ <
+```
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - :hammer: &nbsp; Hacking things together is my thing
