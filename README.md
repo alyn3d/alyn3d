@@ -11,7 +11,7 @@
 
 - :hammer: &nbsp; Hacking things together is my thing
 - :camera: &nbsp; Photography is more than a hobby (check out my website)
-- :musical_keyboard: &nbsp; [Shattering Light](https://sptfy.com/shatteringlight) is my music project (Industrial)
+- :musical_keyboard: &nbsp; [Shattering Light](https://open.spotify.com/artist/3vsfFB9wCJXsGT0V5yuaBY) is my music project (Industrial)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
